@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from personal-agent!")
+"""Personal AI assistant package"""
