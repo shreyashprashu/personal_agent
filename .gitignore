@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Project virtual environments
+.venv/
+venv/
+ENV/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local databases and runtime output
+*.sqlite
+*.sqlite3
+*.db
+*.log
+/logs/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Tool and test caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.ipynb_checkpoints/
+
+# PyCharm and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
