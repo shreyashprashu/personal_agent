@@ -1,1 +1,1 @@
-"""Personal AI assistant package"""
+"""Personal AI assistant package."""

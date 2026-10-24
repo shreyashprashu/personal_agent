@@ -4,6 +4,7 @@ __pycache__/
 
 # Project virtual environments
 .venv/
+.venv*/
 venv/
 ENV/
 
